@@ -4,4 +4,4 @@
   name: Proxmox setup
 
   roles:
-    - proxmox
+    - roles/proxmox
