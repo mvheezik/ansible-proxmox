@@ -1,0 +1,8 @@
+-Add acme plugin for Hetzner
+-Add backup script
+-Add uninstall for dark theme
+-Add ssh to host
+-Add cluster setup
+-Add UPS
+-Add notifications
+-Add VLAN aware
